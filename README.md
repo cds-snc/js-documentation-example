@@ -2,7 +2,7 @@
 
 Should you decide to document your code in JavaScript (you should!), there are several tools available to you.
 
-## Use JSDocs
+## Use JSDoc
 
 [JSDoc](http://usejsdoc.org/) appears to be the defacto standard for documentation in JavaScript. 
 
