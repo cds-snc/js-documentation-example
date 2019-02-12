@@ -1,6 +1,6 @@
 # JavaScript Documentation examples
 
-Should you decide to document your code in JavaScript (you should!), there is one standard and several output tools available to you.
+Should you decide to document your code in JavaScript (you should!), there is one standard and several output tools available to you. Your ESLint file will help you get the formatting right.
 
 ## Use JSDoc
 
@@ -21,6 +21,7 @@ class Button extends Component {
 
     /**
      * Upcase a string.
+     *
      * @param {string} str - The string to upcase.
      * @return {string} The upcased string.
      */
@@ -58,3 +59,14 @@ Run `yarn docz`
 ## Tools
 
 Currently no specific tools. Looking for a good ES6 doctest library.
+
+## References
+
+[https://github.com/airbnb/javascript#comments](https://github.com/airbnb/javascript#comments)
+[https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/javascript/](https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/javascript/)
+[https://www.drupal.org/docs/develop/standards/javascript/javascript-api-documentation-and-comment-standards](https://www.drupal.org/docs/develop/standards/javascript/javascript-api-documentation-and-comment-standards)
+[https://google.github.io/styleguide/jsguide.html)[https://google.github.io/styleguide/jsguide.html]
+[https://github.com/rwaldron/idiomatic.js/#comments](https://github.com/rwaldron/idiomatic.js/#comments)
+[https://contribute.jquery.org/style-guide/js/#comments](https://contribute.jquery.org/style-guide/js/#comments)
+
+
