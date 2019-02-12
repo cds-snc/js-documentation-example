@@ -11,8 +11,7 @@ Should you decide to document your code in JavaScript (you should!), there are s
 Documenting a component and its functions and properties:
 
 ```
-/**
-Component representing a button. */
+/** Component representing a button. */
 class Button extends Component {
 
     propTypes = {
