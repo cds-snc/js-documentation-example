@@ -80,6 +80,6 @@ Currently no specific tools. Looking for a good ES6 doctest library.
 - [https://github.com/airbnb/javascript#comments](https://github.com/airbnb/javascript#comments)
 - [https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/javascript/](https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/javascript/)
 - [https://www.drupal.org/docs/develop/standards/javascript/javascript-api-documentation-and-comment-standards](https://www.drupal.org/docs/develop/standards/javascript/javascript-api-documentation-and-comment-standards)
-- [https://google.github.io/styleguide/jsguide.html)(https://google.github.io/styleguide/jsguide.html)
+- [https://google.github.io/styleguide/jsguide.html](https://google.github.io/styleguide/jsguide.html)
 - [https://github.com/rwaldron/idiomatic.js/#comments](https://github.com/rwaldron/idiomatic.js/#comments)
 - [https://contribute.jquery.org/style-guide/js/#comments](https://contribute.jquery.org/style-guide/js/#comments)
