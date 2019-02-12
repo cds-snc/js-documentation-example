@@ -56,6 +56,15 @@ Run `yarn documentation`
 
 Run `yarn docz`
 
+### ESDoc
+
+[https://esdoc.org/](https://esdoc.org/)
+
+- Pretty colours in HTML
+- Requires plugins to work with ES6 and React, check `packages.json`
+
+Run `yarn esdoc`
+
 ## Tools
 
 Currently no specific tools. Looking for a good ES6 doctest library.
@@ -68,5 +77,3 @@ Currently no specific tools. Looking for a good ES6 doctest library.
 - [https://google.github.io/styleguide/jsguide.html)[https://google.github.io/styleguide/jsguide.html]
 - [https://github.com/rwaldron/idiomatic.js/#comments](https://github.com/rwaldron/idiomatic.js/#comments)
 - [https://contribute.jquery.org/style-guide/js/#comments](https://contribute.jquery.org/style-guide/js/#comments)
-
-
