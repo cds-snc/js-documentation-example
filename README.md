@@ -1,6 +1,6 @@
 # JavaScript Documentation examples
 
-Should you decide to document your code in JavaScript (you should!), there are several tools available to you.
+Should you decide to document your code in JavaScript (you should!), there is one standard and several output tools available to you.
 
 ## Use JSDoc
 
